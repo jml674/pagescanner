@@ -1,0 +1,62 @@
+body {
+  max-height: 100px;
+  margin: 0px;
+  width:310px;
+  font-family: Lato;
+  font-size: 16px;
+}
+div {
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.toggle{
+    display: block;
+    margin-top: 18px;
+}
+.toggle input{
+    display: none;
+}
+.toggle input:checked + .spantoggle:after{
+    content: 'ON';
+}
+.toggle input:checked + .spantoggle:before{
+    left: 20px;
+    background: green;
+}
+.toggle .spantoggle{
+    display: block;
+    position: relative;
+    width: 34px;
+    height: 14px;
+    border-radius: 7px;
+    background-color: #ccc;
+}
+.toggle .spantoggle:after{
+    content: 'OFF';
+    position: absolute;
+    font: 12px Lato, sans-serif;
+    left: calc( 100% + 15px );
+}
+.toggle .spantoggle:before{
+    position: absolute;
+    top: -3px;
+    left: -5px;
+    height: 20px;
+    width: 19px;
+    border-radius: 50%;
+    background-color: red;
+    content: '';
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2);
+    transition: left .3s ease;
+}
+.sectionHeader {
+  background: rgb(10, 167, 185);
+  color: white;
+  width:100%;
+}
+.indent {
+  margin-left: 20px;
+}
+.pagescannerTitleAndLogo {
+  width: 100px;
+}

@@ -1,0 +1,13 @@
+.pagescannerIcon {
+  margin-left: -18px !important;
+  width: 16px !important;
+  height: 16px !important;
+  display: inline !important;
+  background: #DEF4EF !important;
+
+}
+.pagescannerAnchor span{
+  padding-right: 25px;
+  background: #DEF4EF !important;
+  border-radius: 4px !important;
+}

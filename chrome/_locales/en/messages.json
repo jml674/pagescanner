@@ -1,0 +1,37 @@
+{
+  //
+  //  Comments work here too!  Sweet, they didn't always...
+
+  "BlockedUser": {
+    "message":"Too many attempts, please log on execvision site to unlock your account ...",
+    "description":"when user has unsuccesfully logged after N attempts"
+  },
+  "WrongCredentials": {
+    "message":"Wrong username/pwd, please try again...",
+    "description":"says what it is"
+  },
+  "ServerUnreachable":{
+    "message":"ExecVision server does not respond, please try later...",
+    "description":"says what it is"
+  },
+  "UnexpectedError": {
+    "message":"Unexpected error, please try again...",
+    "description":"says what it is"
+  },
+  "DisableForThisSite": {
+    "message":"Disable for this site",
+    "description":"deactivate addon for this site"
+  },
+  "AutoDetectLanguage": {
+    "message":"Auto-Detect language",
+    "description":""
+  },
+  "English": {
+    "message":"English",
+    "description":""
+  },
+  "French": {
+    "message":"French",
+    "description":""
+  }
+}

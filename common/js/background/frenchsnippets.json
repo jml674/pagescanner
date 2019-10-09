@@ -1,0 +1,28 @@
+var frSeededSnippets=[
+  {
+    "id": "0001",
+    "synonyms": ["soccer"],
+    "title": "Football",
+    "etymology":"Angl. foot(-)ball; v. angl. fut ball, m. angl. foote ball composé de foot « pied » et de ball « balle »",
+    "description": "Le football /futbol/ (dans la langue orale, par apocope, le foot), ou soccer /sɔkœʁ/ (en Amérique du Nord), est un sport collectif qui se joue principalement au pied avec un ballon sphérique.",
+    "destinations": [
+      {
+        "anchor": "https://fr.wikipedia.org/wiki/Football",
+        "label": "Football"
+      }
+    ]
+  },
+  {
+    "id": "0002",
+    "synonyms": ["Rugby à XV"],
+    "title": "Rugby",
+    "etymology": "Empr. à l'angl.Rugby, n. de la ville du comté de Warwick où se trouve l'école où ce jeu fut inventé en 1823.",
+    "description": "Le rugby à XV, aussi appelé rugby union dans les pays anglophones, qui se joue par équipes de quinze joueurs sur le terrain avec des remplaçants, est la variante la plus pratiquée du rugby, famille de sports collectifs, dont les spécificités sont les mêlées et les touches, mettant aux prises deux équipes qui se disputent un ballon ovale, joué à la main et au pied.",
+    "destinations": [
+      {
+        "anchor": "https://fr.wikipedia.org/wiki/Rugby_à_XV",
+        "label": "Rugby à XV"
+      }
+    ]
+  },
+]
