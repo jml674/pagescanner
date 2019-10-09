@@ -8,4 +8,5 @@ The included french dictionary contains only rugby and football terms (go to www
 `
 gulp dist
 `
+
 chrome: will generate zip file you can drag and drop in your chrome://extensions page.
