@@ -6,6 +6,10 @@ The included french dictionary contains only rugby and football terms (go to www
 
 ### Building PRODUCTION  versions of the extension
 `
+npm install
+`
+
+`
 gulp dist
 `
 
